@@ -1,5 +1,16 @@
 body {
     padding-top: 70px;
+    font-family: 'Merriweather', Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Merriweather', Georgia, serif;
+}
+
+#content p {
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 1.8;
 }
 
 #sidebar .list-group, #sidebar .list-group-item {
