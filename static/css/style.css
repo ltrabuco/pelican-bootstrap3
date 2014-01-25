@@ -1,16 +1,17 @@
 body {
     padding-top: 70px;
-    font-family: 'Merriweather', Georgia, serif;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.5;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Merriweather', Georgia, serif;
+    color: #00a300;
 }
 
 #content p {
-    font-size: 1.2em;
-    font-weight: 300;
-    line-height: 1.8;
+    font-size: 18px;
 }
 
 #sidebar .list-group, #sidebar .list-group-item {
